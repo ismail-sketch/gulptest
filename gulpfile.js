@@ -5,7 +5,7 @@ const rename = require('gulp-rename');
 const cleanCss = require('gulp-clean-css');
 const babel = require('gulp-babel');
 const concat = require('gulp-concat')
-const uglify = require('gulp-uglify')
+const uglify = require('gulp-uglify');
 
 
 
